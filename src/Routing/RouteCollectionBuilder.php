@@ -27,19 +27,19 @@ class RouteCollectionBuilder extends BaseRouteCollectionBuilder
 
     private array $routesToRemove = [
         // Customers & Account & Users
-        'sylius_admin_partial_customer',
-        'sylius_admin_customer',
-        'api_customer',
-        'sylius_shop_log',
-        'sylius_shop_register',
-        'sylius_shop_request_password_reset_token',
-        'sylius_shop_password_reset',
-        'sylius_shop_user_request_verification_token',
-        'sylius_shop_user_verification',
-        'sylius_shop_account',
-        'api_register_shop_users_post_collection',
-        'sylius_api_shop_authentication_token',
-        'sylius_shop_ajax_user_check_action',
+        // 'sylius_admin_partial_customer',
+        // 'sylius_admin_customer',
+        // 'api_customer',
+        // 'sylius_shop_log',
+        // 'sylius_shop_register',
+        // 'sylius_shop_request_password_reset_token',
+        // 'sylius_shop_password_reset',
+        // 'sylius_shop_user_request_verification_token',
+        // 'sylius_shop_user_verification',
+        // 'sylius_shop_account',
+        // 'api_register_shop_users_post_collection',
+        // 'sylius_api_shop_authentication_token',
+        // 'sylius_shop_ajax_user_check_action',
 
         // Products
         'sylius_admin_product',
